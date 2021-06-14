@@ -1,5 +1,5 @@
 # Zen Fonts Old Mincho
-![Old Mincho](Images/oldMincho.png)
+![Old Mincho](images/oldMincho.png)
 
 ## The story of Zen Fonts
 
