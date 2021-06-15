@@ -2,6 +2,8 @@
 
 ![Old Mincho](images/oldMincho.png)
 
+Zen Old Mincho is a basic text style Japanese serif (Mincho) family. This font family started with the weight “NR”, and added the rest of the weights due to huge demand. Wide range of weights could offer not only the text usage but also more various scenes and media.
+
 ## The story of Zen Fonts
 
 #### My encounter with typography
